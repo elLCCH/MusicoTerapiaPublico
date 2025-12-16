@@ -1,4 +1,5 @@
 import * as bootstrap from 'bootstrap';
+// import * as boostrap1 from 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
 export const initializeBootstrapFeatures = () => {
   // --------
